@@ -1,5 +1,14 @@
 # 💫 About Me:
-My name is Adnan Işıkhan.<br>I have graduated from İstanbul Esenyurt University in 2024,<br>also I have graduated from Atatürk University in 2024.<br>I have studied Computer programming from there.<br>I want to be Software Enginner in the future.<br>I like reading book, I like reading article, I like doing research,<br>I like learning new things about writing code and everything about the industry.<br>I always like to improve myself,<br>I always like to learn new things,<br>I like working , I like doing something with my family.
+My name is Adnan Işıkhan.
+I graduated from İstanbul Esenyurt University in 2024,
+ I also graduated from Atatürk University in 2024.
+I studied Computer programming there.
+I want to be a Software Engineer in the future.
+I like reading books and articles. I like doing research,
+I like learning new things about writing code and everything about the industry.
+I always like improving myself,
+I always like learning new things,
+I like working, I like spending time with my family.
 
 
 # 💻 Tech Stack:
